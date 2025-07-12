@@ -40,7 +40,7 @@ START_PIC = os.environ.get("START_PIC", "https://files.catbox.moe/nz0qme.jpg")
 FORCE_PIC = os.environ.get("FORCE_PIC", "https://files.catbox.moe/dtebuo.jpg")
 
 #--------------------------------------------
-SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "https://adrinolinks.in/api")
+SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "adrinolinks.in")
 SHORTLINK_API = os.environ.get("SHORTLINK_API", "f73d048dbc9e26c0c3ea4403a38fc90978d4fdca")
 TUT_VID = os.environ.get("TUT_VID","https://t.me/how_to_opne/19")
 SHORT_MSG = "<b>⌯ Here is Your Download Link, Must Watch Tutorial Before Clicking On Download...</b>"
