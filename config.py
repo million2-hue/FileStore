@@ -23,29 +23,29 @@ APP_ID = int(os.environ.get("APP_ID", "23552440")) #Your API ID from my.telegram
 API_HASH = os.environ.get("API_HASH", "8607b5532f753811597355b8e9a7be22") #Your API Hash from my.telegram.org
 #--------------------------------------------
 
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002867827792")) #Your db channel Id
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002692827389")) #Your db channel Id
 OWNER = os.environ.get("OWNER", "I_am_nerev_die") # Owner username without @
 OWNER_ID = int(os.environ.get("OWNER_ID", "7596496109")) # Owner id
 #--------------------------------------------
 PORT = os.environ.get("PORT", "8001")
 #--------------------------------------------
-DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://copyrighthaha365:kPaIKZVuEi4LvPMp@cluster0.wbthxko.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://copyrighthaha365:3VJmITjKMkZbw3BQ@cluster0.wqmv6tt.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 DB_NAME = os.environ.get("DATABASE_NAME", "Cluster0")
 #--------------------------------------------
 FSUB_LINK_EXPIRY = int(os.getenv("FSUB_LINK_EXPIRY", "10"))  # 0 means no expiry
 BAN_SUPPORT = os.environ.get("BAN_SUPPORT", "https://t.me/P_World_81")
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "200"))
 #--------------------------------------------
-START_PIC = os.environ.get("START_PIC", "https://files.catbox.moe/md81e1.jpg")
-FORCE_PIC = os.environ.get("FORCE_PIC", "https://files.catbox.moe/76kzxw.jpg")
+START_PIC = os.environ.get("START_PIC", "https://files.catbox.moe/qz7mue.jpg")
+FORCE_PIC = os.environ.get("FORCE_PIC", "https://files.catbox.moe/cfhm59.jpg")
 
 #--------------------------------------------
 SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "adrinolinks.in")
-SHORTLINK_API = os.environ.get("SHORTLINK_API", "a79c2dc16d01b65ef5a0fb3ad8507f2a9b967351")
+SHORTLINK_API = os.environ.get("SHORTLINK_API", "f73d048dbc9e26c0c3ea4403a38fc90978d4fdca")
 TUT_VID = os.environ.get("TUT_VID","https://t.me/how_to_opne/19")
 SHORT_MSG = "<b>⌯ Here is Your Download Link, Must Watch Tutorial Before Clicking On Download...</b>"
 
-SHORTENER_PIC = os.environ.get("SHORTENER_PIC", "https://files.catbox.moe/m8vm1a.jpg")
+SHORTENER_PIC = os.environ.get("SHORTENER_PIC", "https://files.catbox.moe/29iz6b.jpg")
 #--------------------------------------------
 
 #--------------------------------------------
@@ -53,7 +53,7 @@ HELP_TXT = "<b><blockquote>ᴛʜɪs ɪs ᴀɴ ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏ�
 ABOUT_TXT = "<b><blockquote>◈ ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/I_am_nerev_die>ᴡᴀɴɢ ʟɪɴɢ</a>\n◈ ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/Crunchyroll_hindi_Official_03>ᴀɴɪᴍᴇ ᴡᴏʀʟᴅ</a>\n◈ ᴀᴅᴜʟᴛ ᴍᴀɴʜᴡᴀ : <a href=https://t.me/P_World_81>ᴘᴏʀɴ ᴡᴏʀʟᴅ</a>\n◈ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/I_am_nerev_die>ᴡᴀɴɢ ʟɪɴɢ</a></blockquote></b>"
 #--------------------------------------------
 #--------------------------------------------
-START_MSG = os.environ.get("START_MESSAGE", "<b>ʜᴇʟʟᴏ {first}\n\n<blockquote> ɪ ᴀᴍ <a href=https://t.me/Shiavani_Randi_bot>sʜɪᴀᴠᴀɴɪ ʀᴀɴᴅɪ</a>\n ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ, ɪ ᴄᴀɴ sᴛᴏʀᴇ ᴘʀɪᴠᴀᴛᴇ ғɪʟᴇs ɪɴ sᴘᴇᴄɪғɪᴇᴅ ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ᴏᴛʜᴇʀ ᴜsᴇʀs ᴄᴀɴ ᴀᴄᴄᴇss ɪᴛ ғʀᴏᴍ sᴘᴇᴄɪᴀʟ ʟɪɴᴋ <a href=https://t.me/P_World_81>ᴘᴏʀɴ ᴡᴏʀʟᴅ</a></blockquote></b>")
+START_MSG = os.environ.get("START_MESSAGE", "<b>ʜᴇʟʟᴏ {first}\n\n<blockquote> ɪ ᴀᴍ <a href=https://t.me/Tomoe_two_Probot>ᴛᴏᴍᴏᴇ</a>\n ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ, ɪ ᴄᴀɴ sᴛᴏʀᴇ ᴘʀɪᴠᴀᴛᴇ ғɪʟᴇs ɪɴ sᴘᴇᴄɪғɪᴇᴅ ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ᴏᴛʜᴇʀ ᴜsᴇʀs ᴄᴀɴ ᴀᴄᴄᴇss ɪᴛ ғʀᴏᴍ sᴘᴇᴄɪᴀʟ ʟɪɴᴋ <a href=https://t.me/P_World_81>ᴘᴏʀɴ ᴡᴏʀʟᴅ</a></blockquote></b>")
 FORCE_MSG = os.environ.get("FORCE_SUB_MESSAGE", "ʜᴇʟʟᴏ {first}\n\n<b>ᴊᴏɪɴ ᴏᴜʀ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ᴛʜᴇɴ ᴄʟɪᴄᴋ ᴏɴ ʀᴇʟᴏᴀᴅ button ᴛᴏ ɢᴇᴛ ʏᴏᴜʀ ʀᴇǫᴜᴇꜱᴛᴇᴅ ꜰɪʟᴇ.</b>")
 
 CMD_TXT = """<blockquote><b>» ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅs:</b></blockquote>
@@ -96,7 +96,7 @@ QR_PIC = os.environ.get("QR_PIC", "https://files.catbox.moe/0t07py.jpg")
 SCREENSHOT_URL = os.environ.get("SCREENSHOT_URL", f"t.me/I_am_nerev_die")
 #--------------------------------------------
 #Time and its price
-#8 Days
+#08 Days
 PRICE1 = os.environ.get("PRICE1", "30 rs")
 #1 Month
 PRICE2 = os.environ.get("PRICE2", "90 rs")
