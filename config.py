@@ -36,8 +36,8 @@ FSUB_LINK_EXPIRY = int(os.getenv("FSUB_LINK_EXPIRY", "10"))  # 0 means no expiry
 BAN_SUPPORT = os.environ.get("BAN_SUPPORT", "https://t.me/P_World_81")
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "200"))
 #--------------------------------------------
-START_PIC = os.environ.get("START_PIC", "https://files.catbox.moe/skr7mo.jpg")
-FORCE_PIC = os.environ.get("FORCE_PIC", "https://files.catbox.moe/y4kuas.jpg")
+START_PIC = os.environ.get("START_PIC", "https://files.catbox.moe/1rt2jp.jpg")
+FORCE_PIC = os.environ.get("FORCE_PIC", "https://files.catbox.moe/vz64zw.jpg")
 
 #--------------------------------------------
 SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "adrinolinks.in")
@@ -45,7 +45,7 @@ SHORTLINK_API = os.environ.get("SHORTLINK_API", "f73d048dbc9e26c0c3ea4403a38fc90
 TUT_VID = os.environ.get("TUT_VID","https://t.me/how_to_opne/19")
 SHORT_MSG = "<b>⌯ Here is Your Download Link, Must Watch Tutorial Before Clicking On Download...</b>"
 
-SHORTENER_PIC = os.environ.get("SHORTENER_PIC", "https://files.catbox.moe/0bvzpy.jpg")
+SHORTENER_PIC = os.environ.get("SHORTENER_PIC", "https://files.catbox.moe/l7erp4.jpg")
 #--------------------------------------------
 
 #--------------------------------------------
